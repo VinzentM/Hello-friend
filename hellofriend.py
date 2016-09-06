@@ -1,7 +1,7 @@
 """
 hellofriend.py
-Author: <your name here>
-Credit: <list sources used, if any>
+Author: Vinzent
+Credit: http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/ifstatements.html
 
 Assignment:
 
