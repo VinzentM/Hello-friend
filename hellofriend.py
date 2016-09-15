@@ -19,8 +19,8 @@ on the name and age that the user enters.
 """
 s1=input("Please tell me your name: ")
 s2=int(input("Please tell me your age: "))
-s3="Hello, {1}. Python is {0} years older than you"
-s4="Hello, {1}. Python is {0} years younger than you"
+s3="Hello, {1}. Python is {0} years older than you are!"
+s4="Hello, {1}. Python is {0} years younger than you are!"
 s5="Hello, {0}. Python is as old as you"
 a=25
 if int(s2)<int(a):
